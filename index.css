@@ -3,7 +3,7 @@
     color:rgb(168, 16, 16);
 }
 .hero{
-    border:3px solid rgb(48, 118, 209);
+    border:3px solid rgb(18, 96, 199);
     border-radius: 25px;
-    box-shadow: 10px 10px 8px 10px #888888;
+    box-shadow: 2px 10px 10px 8px #888888;
 }
