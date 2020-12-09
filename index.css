@@ -3,7 +3,36 @@
     color:rgb(168, 16, 16);
 }
 .hero{
+    
     border:3px solid rgb(18, 96, 199);
     border-radius: 25px;
-    box-shadow: 2px 10px 10px 8px #888888;
+    box-shadow: 2px 10px 10px 8px #14131350;
+}
+.navbar{
+   border-bottom:0.1px solid rgba(29, 26, 26, 0.548);
+   height:100px;
+   background-color: white;
+    box-shadow:1px 1px 8px 2px ;
+
+}
+.banner{
+    margin-top:120px ;
+}
+.footer a{
+    text-decoration: none;
+    color:white;
+
+}
+.tc{
+    line-height: 1.8;
+    
+}
+.tc p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: justify;
+}
+.tc li{
+    line-height: 1.9;
+    font-size: 18px;
+    text-align: justify;
 }
